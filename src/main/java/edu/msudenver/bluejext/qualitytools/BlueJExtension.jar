@@ -1,9 +1,0 @@
-import bluej.extensions.*;
-import bluej.extensions.event.*;
-import java.net.URL;
-package edu.msudenver.bluejext.qualitytools;
-
-public class BlueJExtension {
-	
-
-}
